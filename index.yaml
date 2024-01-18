@@ -3,7 +3,7 @@ entries:
   next-terminal:
   - apiVersion: v2
     appVersion: 1.16.0
-    created: "2024-01-18T15:29:55.809871455+08:00"
+    created: "2024-01-18T16:09:53.197103963+08:00"
     dependencies:
     - name: common
       repository: oci://registry-1.docker.io/bitnamicharts
@@ -25,10 +25,10 @@ entries:
       - mysql
       version: 9.16.1
     description: Next-terminal Helm chart for Kubernetes
-    digest: 982876270ceffea3091c38d17a12bae9baccddb404f0be26f54bd6e432815912
+    digest: c9ebd275eecc7e51813ef0a27f96a1590d838a3c650ba00f6d80cf8944343bc8
     name: next-terminal
     type: application
     urls:
     - next-terminal-0.1.0.tgz
     version: 0.1.0
-generated: "2024-01-18T15:29:55.806493564+08:00"
+generated: "2024-01-18T16:09:53.182183763+08:00"
